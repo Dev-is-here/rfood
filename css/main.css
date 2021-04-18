@@ -319,7 +319,8 @@ h1.large {
   min-width: 100%;
   min-height: 100%;
 }
-.introVideo{
+
+#introVideo{
   position: relative;
   right: 0;
   bottom: 0;
